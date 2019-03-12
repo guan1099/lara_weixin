@@ -10,7 +10,7 @@ use GuzzleHttp\Client;
 
 class TextController extends Controller
 {
-    //
+    //aaa
     protected $redis_weixin_access_token='str:weixin_access_token';
     protected $redis_weixin_userinfo='str:weixin_userinfo';
 
